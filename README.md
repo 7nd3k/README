@@ -15,7 +15,7 @@ Hey, soy un apasionado profesional del pentesting con más de 3 años de experie
 
 ### Proyectos Destacados
 
-- 📡 **[...](#)**: empty
+- 📡 **[MineFinder](https://github.com/7nd3k/MineFinder/)**: MineFinder es un escáner de puertos simple programado en python.
 - 🔭 **[...](#)**: empty
 - 📀 **[...](#)**: empty
 
